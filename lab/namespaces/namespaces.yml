@@ -33,3 +33,9 @@ apiVersion: v1
 kind: Namespace
 metadata:
   name: argocdlab6
+
+---
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: argocdlab7
